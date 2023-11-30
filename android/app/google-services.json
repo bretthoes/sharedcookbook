@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703573384930",
+    "project_id": "shared-cookbook-bretthoes",
+    "storage_bucket": "shared-cookbook-bretthoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703573384930:android:e7c0d731834ac555c748bb",
+        "android_client_info": {
+          "package_name": "com.bretthoes.sharedcookbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zEnNYn_vM1fX7bqFyY07KlB36o7YVWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
